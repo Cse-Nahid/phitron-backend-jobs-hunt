@@ -1,0 +1,4 @@
+job_project/.env
+__pycache__/
+venv/
+.git
