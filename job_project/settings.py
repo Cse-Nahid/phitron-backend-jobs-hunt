@@ -48,13 +48,13 @@ CORS_ALLOW_ALL_ORIGINS = True
 # CSRF settings
 CSRF_TRUSTED_ORIGINS = [
     # 'https://jobhunt-z4ts.onrender.com',
-    "https://jobs-hunt-murex.vercel.app/"
+    "https://jobs-hunt-murex.vercel.app"
     'http://127.0.0.1:8000',
     'http://localhost:8000',
     'http://127.0.0.1:5501',
 ]
 CORS_ALLOWED_ORIGINS = [
-    "https://jobs-hunt-murex.vercel.app/",
+    "https://jobs-hunt-murex.vercel.app",
 ]
 
 # CORS_ORIGIN_WHITELIST = (
